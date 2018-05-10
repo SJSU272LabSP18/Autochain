@@ -16,7 +16,7 @@ As the connected devices proliferate everywhere and the advent of autonomous veh
 
 ![alt text](img.jpg "Landing page")
 
-## Problems Adderessed
+## Problems Addressed
 
 * (Non) Public Data
 * Scattered historical data with limited access or information
