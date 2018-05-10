@@ -15,5 +15,7 @@ As the connected devices proliferate everywhere and the advent of autonomous veh
 
 ## Architecture diagram of BLockchain network used
 
+![alt text](img.jpg "Landing page")
+
 
 
